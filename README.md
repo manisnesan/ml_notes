@@ -23,9 +23,9 @@
 - Offline validation
 - A/B testing ( business metrics != model/evaluation metrics)
 
-https://github.com/sravya8/ML/blob/master/Practical_ML.md
-https://manisnesan.github.io/chrestotes/intent-detection/text-classification/information-retrieval/query-understanding/machine-learning/2020/09/20/intent-detection.html
-https://github.com/sravya8/ML/blob/master/Practical_ML.md#improving-the-model-handling-bias-and-variance
+- https://github.com/sravya8/ML/blob/master/Practical_ML.md
+- https://manisnesan.github.io/chrestotes/intent-detection/text-classification/information-retrieval/query-understanding/machine-learning/2020/09/20/intent-detection.html
+- https://github.com/sravya8/ML/blob/master/Practical_ML.md#improving-the-model-handling-bias-and-variance
 
 ## ML UseCases
 
